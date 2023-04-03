@@ -1,2 +1,3 @@
 # Long-term-engraftment-of-engineered-human-plasma-cells-
 Due to their unique longevity and capacity to secrete high levels of protein, plasma B cells have the potential to be used as a cell therapy for protein replacement. Here, we show that ex vivo engineered human plasma cells exhibited transcriptional features of long-lived plasma cells by CITEseq single cell RNA sequecencing, and use of mathematical models to uncover the dynamic of long-lived plasma cell in vivo and the death rate dynamic in vitro.
+![GIT](https://user-images.githubusercontent.com/36836205/229636760-33b3b9e2-7963-442d-90ea-ce9e2738a7e1.png)
